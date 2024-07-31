@@ -2,14 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ianz94.github.io/docs/</loc>
+    <loc>https://ianz94.github.io/pages/</loc>
     <lastmod>2024-07-30T15:48:25+08:00</lastmod>
   </url><url>
-    <loc>https://ianz94.github.io/docs/test/</loc>
+    <loc>https://ianz94.github.io/pages/test/</loc>
     <lastmod>2024-07-30T15:48:25+08:00</lastmod>
   </url><url>
     <loc>https://ianz94.github.io/</loc>
     <lastmod>2024-07-30T15:48:25+08:00</lastmod>
+  </url><url>
+    <loc>https://ianz94.github.io/archives/</loc>
   </url><url>
     <loc>https://ianz94.github.io/categories/</loc>
   </url><url>
