@@ -4,3 +4,28 @@ title: ᕦ ʕ´•ᴥ•`ʔ ᕤ   Ian's Blog
 theme: PaperMod
 
 enableEmoji: true
+
+params:
+  author: Ian Zhang
+  homeInfoParams:
+    Title: "ʕ´•ᴥ•`ʔ"
+    Content: >
+      🐻
+
+  socialIcons:
+    - name: Github
+      url: "https://github.com/ianz94"
+    - name: Linkedin
+      url: "https://www.linkedin.com/in/yijian-zhang-a40299a2/"
+    - name: Rss
+      url: "index.xml"
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+
+menu:
+  main:
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
