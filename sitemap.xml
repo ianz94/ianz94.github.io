@@ -2,19 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ianz94.github.io/pages/</loc>
-    <lastmod>2024-09-08T00:19:48+08:00</lastmod>
-  </url><url>
-    <loc>https://ianz94.github.io/pages/2024-09-08-priority_queue-set-multiset-in-c&#43;&#43;-stl/</loc>
-    <lastmod>2024-09-08T00:19:48+08:00</lastmod>
-  </url><url>
-    <loc>https://ianz94.github.io/</loc>
-    <lastmod>2024-09-08T00:19:48+08:00</lastmod>
-  </url><url>
     <loc>https://ianz94.github.io/archives/</loc>
   </url><url>
     <loc>https://ianz94.github.io/categories/</loc>
   </url><url>
     <loc>https://ianz94.github.io/tags/</loc>
+  </url><url>
+    <loc>https://ianz94.github.io/</loc>
   </url>
 </urlset>
