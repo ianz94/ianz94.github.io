@@ -1,0 +1,46 @@
+.home-info .entry-content {
+  display: block;
+  overflow: visible;
+}
+
+.home-profile {
+  display: flex;
+  align-items: flex-start;
+  gap: 40px;
+}
+
+.home-profile-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.home-profile-photo {
+  width: 180px;
+  height: 180px;
+  flex-shrink: 0;
+  object-fit: cover;
+  border-radius: 18px;
+}
+
+.home-info .entry-content h2 {
+  margin: 32px 0 12px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--border);
+  font-size: 20px;
+}
+
+.home-info .entry-content ul {
+  padding-inline-start: 20px;
+}
+
+@media (max-width: 600px) {
+  .home-profile {
+    flex-direction: column-reverse;
+    gap: 20px;
+  }
+
+  .home-profile-photo {
+    width: 132px;
+    height: 132px;
+  }
+}

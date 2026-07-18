@@ -1,25 +1,27 @@
 baseURL: "https://ianz94.github.io/"
 languageCode: en-us
-title: ᕦ ʕ´•ᴥ•`ʔ ᕤ   Ian's Blog
+title: ʕ´•ᴥ•`ʔ Ian Zhang 张一健
 theme: PaperMod
 
 enableEmoji: true
 
 params:
   author: Ian Zhang
-  homeInfoParams:
-    Title: "ʕ´•ᴥ•`ʔ"
-    Content: >
-      🐻
-
   socialIcons:
-    - name: Github
-      url: "https://github.com/ianz94"
     - name: Linkedin
       url: "https://www.linkedin.com/in/yijian-zhang-a40299a2/"
+    - name: Github
+      url: "https://github.com/ianz94"
     - name: Rss
       url: "index.xml"
+  homeInfoParams:
+    Title: "Ian Zhang 张一健"
+    Image: "/images/profile-photo.png"
+    ImageAlt: "Ian Zhang"
+    Content: |
+      I am a system software engineer with experiences spanning enterprise networking, warehouse robotics and industrial 3D vision solutions.
 
+      I enjoy building low-level infra that turns complex hardware capabilities into reliable products, from networking to robotics and edge-AI devices.
   ShowReadingTime: true
   ShowShareButtons: true
 
